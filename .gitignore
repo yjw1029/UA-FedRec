@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+checkpoint/
+wandb/
+amlt/
+.amltconfig
+.vscode
+config.yaml
+
+*/raw/*/
+*/data/*
+output/
+
+run*.sh
